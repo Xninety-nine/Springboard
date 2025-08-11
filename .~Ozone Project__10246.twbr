@@ -620,8 +620,8 @@
         </view>
         <style>
           <style-rule element='axis'>
-            <encoding attr='space' class='0' field='[federated.0rf24pa1kxsz6p1ayd1c00k2whwf].[Longitude (generated)]' field-type='quantitative' max='-11925740.46449193' min='-14292352.673699986' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
-            <encoding attr='space' class='0' field='[federated.0rf24pa1kxsz6p1ayd1c00k2whwf].[Latitude (generated)]' field-type='quantitative' max='5265178.4201986808' min='3802424.9556926796' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+            <encoding attr='space' class='0' field='[federated.0rf24pa1kxsz6p1ayd1c00k2whwf].[Longitude (generated)]' field-type='quantitative' max='-12494154.767398257' min='-13869629.673568493' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.0rf24pa1kxsz6p1ayd1c00k2whwf].[Latitude (generated)]' field-type='quantitative' max='5192128.009498938' min='3816653.103328703' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
           </style-rule>
           <style-rule element='map'>
             <format attr='washout' value='0.0' />
